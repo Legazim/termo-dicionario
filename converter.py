@@ -1,5 +1,5 @@
-ENTRADA = 'C:\\Users\\PC\\Desktop\\Telegrambot\\criandotermo\\palavras.txt'
-SAIDA = 'C:\\Users\\PC\\Desktop\\Telegrambot\\criandotermo\\dicionario.txt'
+ENTRADA = 'palavras.txt'
+SAIDA = 'dicionario.txt'
 
 with open(ENTRADA, encoding='UTF-8') as f:
     # linhas = f.readlines()
